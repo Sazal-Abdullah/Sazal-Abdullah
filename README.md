@@ -1,3 +1,4 @@
+![logo](https://github.com/Sazal-Abdullah/Sazal-Abdullah/blob/main/git_benar.jpg)
 <h1 align="center">Hi 👋, I'm Sazal Abdullah</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
